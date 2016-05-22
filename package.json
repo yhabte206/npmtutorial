@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yhabte206/npmtutorial/issues"
   },
-  "homepage": "https://github.com/yhabte206/npmtutorial#readme"
+  "homepage": "https://github.com/yhabte206/npmtutorial#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
