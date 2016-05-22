@@ -1,0 +1,19 @@
+{
+  "name": "npmtutorial",
+  "version": "1.0.0",
+  "description": "This is an NPM tutorial from free code camp website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhabte206/npmtutorial.git"
+  },
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhabte206/npmtutorial/issues"
+  },
+  "homepage": "https://github.com/yhabte206/npmtutorial#readme"
+}
