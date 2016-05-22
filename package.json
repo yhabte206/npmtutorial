@@ -1,6 +1,6 @@
 {
   "name": "npmtutorial",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is an NPM tutorial from free code camp website.",
   "main": "index.js",
   "scripts": {
